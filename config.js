@@ -7,14 +7,14 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6282285357346', 'Tio', true]
+['2348114306897', 'Tio', true]
 ] 
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '6282285357346'
+global.nomorwa = '2348114306897'
 global.nameown = 'Tioo'
-global.nomerown = '6282285357346'
+global.nomerown = '2348114306897'
 global.packname = 'sticker by '
 global.author = 'N I G H T M A R E'
 global.namebot = '乂 NightMare - MD'
